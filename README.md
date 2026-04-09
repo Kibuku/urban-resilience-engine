@@ -12,7 +12,7 @@
 
 ## Overview
 
-The Urban Resilience Engine divides Nairobi into **873 hexagonal zones** (each ~0.46 km²) and scores every zone from 0 to 1 for extreme weather risk — primarily **flooding** and **heat stress**. The tool is designed for city planners, NGOs, and government offices to identify high-risk neighbourhoods and prioritise infrastructure investment.
+The Urban Resilience Engine divides Nairobi into **873 hexagonal zones** (each ~0.46 km²) and scores every zone from 0 to 1 for extreme weather risk primarily **flooding** and **heat stress**. The tool is designed for city planners, NGOs, and government offices to identify high-risk neighbourhoods and prioritise infrastructure investment.
 
 ---
 
