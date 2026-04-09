@@ -1,0 +1,64 @@
+# Environment variables (contains credentials)
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Models
+models/*.joblib
+models/*.pkl
+models/*.h5
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MLflow
+mlruns/
+.mlflow/
+
+# ngrok
+*.ngrok
+
+# Cache files (can be very large - 200MB+)
+cache/
+.cache/
+
+# Generated report images
+reports/*.png
+reports/*.html
+
+# Tile image data
+data/tiles/
